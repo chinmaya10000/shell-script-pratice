@@ -1,0 +1,8 @@
+
+goodmorning() {
+
+  echo "Hello from shell scripting..!!"
+  echo "Todays date is :"
+  date
+
+}
